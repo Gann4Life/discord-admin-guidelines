@@ -40,11 +40,11 @@ Administrar servidores es una tarea que debe ser llevada a cabo con estrategia y
 * Mientras la estética sea uniforme en todo el servidor, casi cualquier cosa es válido.
 * Es necesario que todos los canales sean fáciles de leer y con la menor cantidad de carácteres posibles.
 * Recordar que discord es multiplataforma, por lo que debe ser legible para todos los dispositivos.
-* Evitar nombres largos a tal punto de... (Que queden sin poder terminar de leer)![[Pasted image 20230624135626.png]]
+* Evitar nombres largos a tal punto de... (Que queden sin poder terminar de leer)<img src="img/Pasted image 20230624135626.png">
 * Algunos ejemplos de estética uniforme:
-	* ![[Pasted image 20230624140936.png]]
-	* ![[Pasted image 20230624140946.png]]
-	* ![[Pasted image 20230624141016.png]]
-	* ![[Pasted image 20230624141059.png]]
-	* ![[Pasted image 20230624141105.png]]
-	* ![[Pasted image 20230624141222.png]]
+	* <img src="img/Pasted image 20230624140936.png">
+	* <img src="img/Pasted image 20230624140946.png">
+	* <img src="img/Pasted image 20230624141016.png">
+	* <img src="img/Pasted image 20230624141059.png">
+	* <img src="img/Pasted image 20230624141105.png">
+	* <img src="img/Pasted image 20230624141222.png">
